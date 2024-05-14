@@ -1,0 +1,60 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/profile_header">
+
+        <Preference
+            app:key="Profile Image"
+            app:title="@string/profile_image_title"
+            app:useSimpleSummaryProvider="false" />
+        <EditTextPreference
+            android:key="Description"
+            android:selectAllOnFocus="true"
+            android:singleLine="false"
+            android:title="@string/profile_description_title"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/account_header">
+        <EditTextPreference
+            android:key="First Name"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/first_name_title"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="Surname"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/last_name_title"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="NT Number"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/nt_number_title"
+            app:useSimpleSummaryProvider="true" />
+        <EditTextPreference
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:key="Email"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/email_title"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+<!--    <PreferenceCategory android:title="@string/preferences_header">-->
+
+<!--        <SwitchPreference-->
+<!--            android:defaultValue="false"-->
+<!--            android:key="Dark Mode"-->
+<!--            android:title="@string/dark_mode_title"-->
+<!--            app:persistent="true" />-->
+<!--    </PreferenceCategory>-->
+
+</PreferenceScreen>

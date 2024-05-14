@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/profile"
+        android:title="@string/profile_page_title"
+        android:icon="@drawable/account_circle"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/entered_societies"
+        android:title="@string/societies_option"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settings_option"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/log_out"
+        android:title="@string/log_out_option"
+        app:showAsAction="never"/>
+</menu>

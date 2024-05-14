@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275994838695",
+    "project_id": "ntu-society-browser",
+    "storage_bucket": "ntu-society-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275994838695:android:c2c4cfe8b464de13fffd82",
+        "android_client_info": {
+          "package_name": "com.jessm.ntusocietybrowser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyGIg7TajfDCS13TSr6LgxN9A00FBVpJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

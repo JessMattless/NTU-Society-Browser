@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">NTU\nSociety Browser</string>
+    <string name="log_in">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_hint">Email…</string>
+    <string name="password_hint">Password…</string>
+    <string name="password_confirm_hint">Confirm Password…</string>
+    <string name="f_name_hint">First Name…</string>
+    <string name="l_name_hint">Last Name…</string>
+    <string name="n_t_number_hint">N/T Number…</string>
+    <string name="account_question_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="account_question_login">Already have an account? Log In</string>
+    <string name="home_page_title">Home</string>
+    <string name="search_page_title">Search</string>
+    <string name="notification_page_title">Notifications</string>
+    <string name="calendar_page_title">Calendar</string>
+    <string name="profile_page_title">Profile</string>
+    <string name="dummy_page_title">Page Title</string>
+    <string name="back_caption">Back</string>
+    <string name="close_caption">Close</string>
+    <string name="dummy_username">John Doe</string>
+    <string name="dummy_n_number">N0000000</string>
+    <string name="dummy_profile_text">Nulla feugiat lobortis porttitor. Cras nec tellus quis justo ultrices lacinia a ornare arcu. Morbi libero lorem, luctus nec nisi ac, maximus facilisis turpis. Vestibulum laoreet orci nulla, at pulvinar lorem tempor nec. Ut quis ligula varius, venenatis sem vel, eleifend odio. Suspendisse dignissim mi ut fringilla luctus. Cras ultrices nulla sapien, vitae porta nunc dignissim eu. Sed non libero a ex rutrum rutrum nec ut quam.</string>
+    <string name="societies_option">Entered Societies</string>
+    <string name="settings_option">Settings</string>
+    <string name="log_out_option">Log Out</string>
+    <string name="societies_option_tag">To Entered Societies</string>
+    <string name="settings_option_tag">To Settings</string>
+    <string name="log_out_option_tag">Log Out of Account</string>
+    <string name="profile_picture_tag">Profile Image</string>
+    <string name="confirm_dialogue_text">Are you sure?</string>
+    <string name="confirm_logout_text">Logout</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="logout_confirmation_text">Log Out?</string>
+    <string name="important_label">Important</string>
+    <string name="home_post_image_label">Image for Post</string>
+    <string name="add_to_calendar">Add to calendar</string>
+    <string name="view_more">View More</string>
+    <string name="view_less">View Less</string>
+    <string name="to_society">Go To Society</string>
+    <string name="list_of_posts">List of Posts</string>
+    <string name="search_hint">Search…</string>
+    <string name="society_logo_text">Society Logo</string>
+    <string name="nt_number_warning">N/T Number is incorrect</string>
+    <string name="password_warning">Passwords do not match</string>
+    <string name="search_empty">We couldn\'t find any matching results</string>
+    <!-- Preference Titles -->
+    <string name="profile_header">Profile</string>
+    <string name="account_header">Account</string>
+    <string name="preferences_header">Preferences</string>
+
+    <!-- Profile Preferences -->
+    <string name="profile_image_title">Profile Picture</string>
+    <string name="profile_description_title">Profile Description</string>
+
+    <!-- Account Preferences -->
+    <string name="first_name_title">First Name</string>
+    <string name="last_name_title">Surname</string>
+    <string name="nt_number_title">N/T Number</string>
+    <string name="email_title">Email</string>
+    <string name="password_title">Password</string>
+    <string name="confirm_password_title">Confirm Password</string>
+
+    <!-- General Preferences -->
+    <string name="dark_mode_title">Dark Mode</string>
+    <string name="admin_title">Committee</string>
+    <string name="members_title">Members</string>
+
+    <string name="new_society_hint">Can\'t find the society you\'re looking for? Create one.</string>
+    <string name="society_name_hint">Society Name…</string>
+    <string name="society_email_hint">Society Email…</string>
+    <string name="society_description_hint">Society Description…</string>
+    <string name="create_society">Create Society</string>
+    <string name="create_post">Create New Post</string>
+    <string name="society_settings_option">Society Settings</string>
+    <string name="confirm">Confirm</string>
+    <string name="post_title_label">Post Title…</string>
+    <string name="post_description_label">Post Content…</string>
+    <string name="default_label">Default</string>
+    <string name="dated_label">Deadline</string>
+    <string name="calendar_label">Calendar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="leave_society">Leave Society</string>
+    <string name="notifications_setting">Recieve Notifications</string>
+    <string name="disband_society">Disband Society</string>
+    <string name="add_admin">Add Committee Member</string>
+    <string name="remove_admin">Remove Admin</string>
+</resources>
